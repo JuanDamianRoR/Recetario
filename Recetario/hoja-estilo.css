@@ -1,0 +1,28 @@
+* {
+    padding: 1%;
+    margin: 1%;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(255, 230, 0);
+    color: rgb(34, 0, 255);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(28, 203, 34);
+    color: rgb(255, 0, 0);
+    padding: 20px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    text-align: justify;
+  }
+  
+  h2, h3 {
+    font-weight: bold;
+  }
